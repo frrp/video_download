@@ -1,0 +1,383 @@
+Welcome to Introduction to Computational Finance and Financial Econometrics (13:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinIntroVid_Final%20%5B7ba27afe%5D%20.mp4
+
+1.0 Week 1 Introduction (0:58)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson1_Final%20%5B94221914%5D%20.mp4
+
+1.1 Future Value, Present Value and Compounding (17:02)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Faa73d90c-afcd-431c-827b-495724ef5602%20%5B463e7376%5D%20.mp4
+
+1.2 Asset Returns (16:53)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F6c4446d9-3b02-4e9b-9aa8-46886d2b01f9%20%5B93fe198b%5D%20.mp4
+
+1.4 Dividends (4:00)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fb217ba00-e95e-4351-93db-6e264796ef05%20%5B0d021e40%5D%20.mp4
+
+1.5 Inflation (4:57)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff8d8a3f9-f652-4648-846b-0fca3813596b%20%5Beb14b3e9%5D%20.mp4
+
+1.6 Annualizing Returns (5:32)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fb5e9e0e8-60e7-4654-b8c3-be3d092c3cb4%20%5B39f4b171%5D%20.mp4
+
+1.8 CC Portfolio Returns and Inflation (5:50)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9e27758a-c8af-424f-be95-1bb566963e5e%20%5Bdcab71ad%5D%20.mp4
+
+1.7 Continuously Compounded Returns (15:55)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F299873a7-4b1a-46bd-bad6-70b476046375%20%5Bfa060fd7%5D%20.mp4
+
+1.9 Simple Returns (4:01)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F49abea1e-6e15-4755-88a1-10bd09f71ddb%20%5Bcfdd8119%5D%20.mp4
+
+1.10 Getting Financial Data from Yahoo! (10:26)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F8cbe5589-6cce-4c58-b266-128736f950e7%20%5B2fe48a13%5D%20.mp4
+
+1.11 Return Calculations (6:21)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F0fba442a-006c-4dba-8b03-6e7e442e82cc%20%5Bc8c70f04%5D%20.mp4
+
+1.12 Growth of $1 (6:58)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff4216567-5023-4b00-9c4a-27d730529b0a%20%5Bf9dd52c5%5D%20.mp4
+
+2.0 Week 2 Introduction (1:06)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson2_Final%20%5B22b54680%5D%20.mp4
+
+2.1 Univariate Random Variables (20:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F25180703-efdf-4067-906c-98109d73d14f%20%5B2a44ae09%5D%20.mp4
+
+2.2 Cumulative Distribution Function (8:42)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F7d608c5f-493a-4cb6-889d-5bdde14b17d4%20%5B1490b3a2%5D%20.mp4
+
+1.3 Portfolio Returns (9:12)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fdfb459cf-d30a-4ca4-ba22-8629c7ae070e%20%5B69872530%5D%20.mp4
+
+2.3 Quantiles (7:50)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fa1881c93-4cf4-466d-8f9b-3101b3a5ae2d%20%5Bcd499c3d%5D%20.mp4
+
+2.4 Standard Normal Distribution (16:02)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9375f3a6-ed69-4080-8aff-63641272ccc2%20%5Bdfdb4421%5D%20.mp4
+
+2.5 Expected Value and Standard Deviation (19:58)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fe32c4722-8f91-4597-8877-bd4724ed4a18%20%5B8e885e38%5D%20.mp4
+
+2.6 General Normal Distribution (6:23)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F6e57e06d-60f6-4bc7-b8d2-1bacce40504e%20%5Bbee07229%5D%20.mp4
+
+2.7 Standard Deviation as a Measure of Risk (4:34)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff6aa9cbb-4eff-4229-8b65-010c23152d2d%20%5Be42e9e4a%5D%20.mp4
+
+2.10 Student's-t Distribution (5:52)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd5736e17-4725-4af5-90ea-940155efce8a%20%5B00e97c13%5D%20.mp4
+
+2.11 Linear Functions of Random Variables (11:13)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fafe0203f-67dd-4427-a95c-1a76e0dfb418%20%5B6c78d3c2%5D%20.mp4
+
+2.8 Normal Distribution: Appropriate for simple returns? (14:22)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F0409e666-7aef-4b88-a316-67c9e6bfdb77%20%5Be72dd2aa%5D%20.mp4
+
+3.0 Week 3 Introduction (1:04)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson3_Final%20%5Bb3d4e603%5D%20.mp4
+
+2.12 Value at Risk (19:48)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9bafe018-729a-4ad1-998f-21a2f5bcd641%20%5Bead94b2a%5D%20.mp4
+
+3.1 Location-scale Model (12:15)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F959c6d01-a274-4940-9fff-d99327de9d3a%20%5B8487f606%5D%20.mp4
+
+3.2 Bivariate Discrete Distributions (14:18)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F193e9965-9591-4ef4-89ef-33a59bdec6cd%20%5B029d27da%5D%20.mp4
+
+3.4 Covariance (19:16)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Febe0e436-0ae9-4e2c-8b25-d25b7aae8151%20%5B78e5691c%5D%20.mp4
+
+3.5 Correlation and the Bivariate Normal Distribution (11:59)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F60b24b19-4796-4e57-af76-6f00901f625c%20%5Bf9ab2677%5D%20.mp4
+
+3.6 Linear Combination of 2 Random Variables (11:09)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F94e35d18-ed05-41fe-b5a0-bb56c89415bf%20%5B3b38b55d%5D%20.mp4
+
+3.3 Bivariate Continuous Distributions (14:15)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff417eb56-9d90-41b4-a40b-9a5f265e4fc0%20%5B3a16dde7%5D%20.mp4
+
+3.7 Portfolio Example (19:20)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F874a5503-fc27-4f89-aca3-c5d1e2b25989%20%5B6b3e9bb4%5D%20.mp4
+
+3.8 Matrix Algebra: Review Part 1 (17:02)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F264c3d85-cc53-4d8d-a684-259747e5ef68%20%5Bb31c15eb%5D%20.mp4
+
+3.9 Matrix Algebra: Review Part 2 (20:10)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F84b862af-1c6d-4404-be17-04ef903a8376%20%5B14f17c9d%5D%20.mp4
+
+4.0 Week 4 Introduction (2:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson4_Final%20%5B0d6594b5%5D%20.mp4
+
+4.1 Matrix Algebra: Portfolio Math (21:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fb809b366-e355-4a6a-8fb8-d7487a70928c%20%5B3842e974%5D%20.mp4
+
+4.2 Matrix Algebra: Bivariate Normal (7:26)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fda088f9f-8e7e-46bc-b0f1-32cc5bb1d81e%20%5B73b66eae%5D%20.mp4
+
+4.3 Time Series Concepts (16:48)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F041054cc-9f97-4960-8ee4-d6b93f6e4f04%20%5B489d6dda%5D%20.mp4
+
+4.5 White Noise Processes (12:31)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd6a0fed3-9fe9-42e3-beba-b0d0e5d38fd4%20%5Be1b3c101%5D%20.mp4
+
+4.4 Autocorrelation (9:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd2f832c7-715c-4c28-ba11-fc43cf4abe96%20%5B0599d00b%5D%20.mp4
+
+2.9 Skewness and Kurtosis (15:39)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F3862db12-360c-40bd-9929-c5a7165c96ed%20%5B4f332444%5D%20.mp4
+
+4.6 Nonstationary Processes (17:29)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F062d5b94-58d6-466d-8a7c-7efb6aab3d22%20%5B4c6c00fb%5D%20.mp4
+
+4.8 Autoregressive Processes Part 1 (3:19)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F6965a8a0-c071-4c43-a79d-58a04f17d030%20%5B008d6f9a%5D%20.mp4
+
+4.7 Moving Average Processes (25:45)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fcae8c090-2008-4aea-9680-56a4954d9304%20%5Bd6791cb0%5D%20.mp4
+
+4.9 Autoregressive Processes Part 2 (28:19)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fed03af9f-a47c-4e94-a728-5ecc5a620aa3%20%5Bd34a348a%5D%20.mp4
+
+5.0 Week 5 Introduction
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson5_Final%20%5B477afa6d%5D%20.mp4
+
+5.2 Histograms (11:33)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4fa26790-b327-48bd-b8e1-8104143d1d74%20%5B09a04d09%5D%20.mp4
+
+5.3 Sample Statistics (15:24)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F5dd238ae-fe65-4891-94d6-c00098e5f93d%20%5Bda6ee362%5D%20.mp4
+
+5.1 Covariance Stationarity (11:28)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F3891374d-d6cd-4221-8bdc-41c6e4ea8b47%20%5Bb7ee4e4b%5D%20.mp4
+
+5.5 Outliers Part 1 (7:15)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fe9888618-de67-4e7a-a41b-0b977272cf38%20%5B6a868ead%5D%20.mp4
+
+5.4 Empirical CDF and QQ plots (12:00)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff226896b-da4f-46e8-ba6a-bd2071e14413%20%5B09406d81%5D%20.mp4
+
+5.6 Outliers Part 2 (7:39)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4662c49e-a83c-4068-b30a-7d36854a74fa%20%5Be60a68a4%5D%20.mp4
+
+5.7 Graphical Measures (23:17)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fca92e9b0-f7e6-47da-89b6-98a5d32f775e%20%5Bcaf2bf18%5D%20.mp4
+
+5.8 Descriptive Statistics for Daily Data (24:17)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F36fe08ac-c2a0-4bea-ac8e-4bcd3078953f%20%5Bec1dfad0%5D%20.mp4
+
+6.0 Week 6 Introduction
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson6_Final%20%5B59d1809d%5D%20.mp4
+
+6.1 Constant Expected Return Model (14:07)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F11c6f2ab-23cb-4fc2-ba20-82c94429d19f%20%5B866704ae%5D%20.mp4
+
+6.2 Simulating Data (12:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F91458c02-311c-4b9c-b136-94e607b296bd%20%5Bd75ca688%5D%20.mp4
+
+6.3 Random Walk Model (5:38)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fbc20f2a1-3fc6-4d63-b010-506c14b02f50%20%5Be780e500%5D%20.mp4
+
+6.4 Estimating Parameters of CER (18:59)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F39459384-9997-4921-964b-35a464499d0e%20%5B2b083a5c%5D%20.mp4
+
+6.5 Bias and Precision (13:02)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F35aa01a6-871f-48e9-ae73-25bfd6e32c45%20%5B56591425%5D%20.mp4
+
+6.6 Mean Squared Error (1:22)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F6210db78-0847-474c-b4b7-8fc14495b6f8%20%5Bf3cd352a%5D%20.mp4
+
+6.7 Standard Errors (22:12)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F8ed76103-a9d7-4a89-b082-0c1effe199d6%20%5B27c00fab%5D%20.mp4
+
+6.8 Asymptotic Properties of Estimators (14:11) 
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ffce9705b-1604-4b77-9ea4-9202b8c7f700%20%5B3660a0e5%5D%20.mp4
+
+6.9 Confidence Intervals (12:47)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F70b459cd-384a-4780-b975-4a42271c175e%20%5B9352b101%5D%20.mp4
+
+6.11 Value at Risk in CER model (7:36)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F62b7a071-74f2-454d-9fcd-9a3bf6e0d357%20%5B707169ff%5D%20.mp4
+
+7.0 Week 7 Introduction (2:43)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson7_Final%20%5B2bb2c4ba%5D%20.mp4
+
+7.2 Performing the Bootstrap in R (18:10)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fa01fa01a-775d-4b4e-a06f-a6841c6ac957%20%5B7d66ef16%5D%20.mp4
+
+7.1 Bootstrap (26:06)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4afb1fc7-6367-43e8-9d21-9b917ead000d%20%5Bd1026523%5D%20.mp4
+
+7.3 Boostrapping VaR (8:44)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F73839455-9b81-49d8-ac50-8023668a9ecd%20%5B7125d0ef%5D%20.mp4
+
+7.4 Hypothesis Testing: Introduction (8:29)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F5a6b7ac8-984d-4c35-84b6-10c649e0859d%20%5Bec61b632%5D%20.mp4
+
+7.5 Hypothesis Testing: Overview (9:06)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F309408ff-a668-4142-84a2-56a33ae5cdef%20%5B571b34c2%5D%20.mp4
+
+7.6 Hypothesis Testing: CER Model (10:47)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F78f7bb83-e567-40c3-b676-6fbe465ad2c7%20%5Ba7c1e1db%5D%20.mp4
+
+7.7 Chi-square and Student's t distributions (5:16)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ffd0042d5-a20e-4109-aa59-7e17ad8b75a7%20%5B868c9d06%5D%20.mp4
+
+7.8 Test of Specific Coefficient Value (26:07)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F7a3ad16c-b05e-4902-adca-7e024d7c879c%20%5B320c8b9c%5D%20.mp4
+
+6.10 Monte Carlo Simulation (15:27)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F5b735c29-c549-4136-aa4a-443793295029%20%5B001daae0%5D%20.mp4
+
+7.9 Test for Normal Distribution (8:36)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F716b8b81-4faf-44c8-9b3f-fe71212c0be3%20%5B9aa6d7d8%5D%20.mp4
+
+7.10 Test for No Autocorrelation (5:36)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F01bdbc98-732d-41e7-b1b8-cbe52ce43f64%20%5Bba761b36%5D%20.mp4
+
+8.0 Week 8 Introduction (2:57)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson8_Final%20%5Bcf610a42%5D%20.mp4
+
+8.1 Introduction to Portfolio Theory (14:35)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fe804f3b9-890f-4b17-8eb8-0ca69850d76a%20%5B5382679c%5D%20.mp4
+
+7.11 Diagnostics for Constant Parameters (22:21)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F0d31cd1f-05f8-46f4-a130-72ade031b93e%20%5B9984a70a%5D%20.mp4
+
+8.3 Portfolio Value-at-Risk (6:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F04d35c2c-9f6f-4dee-a917-cb7b759a6184%20%5B2d551288%5D%20.mp4
+
+8.2 Portfolio Examples (6:08)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F77326e9b-91a7-4a98-baf2-730f05d31a99%20%5B64690e19%5D%20.mp4
+
+8.4 Portfolio Frontier (10:28)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fff1bd8fe-904b-42ec-9cff-bf59d7c6cc51%20%5B2e606262%5D%20.mp4
+
+8.6 Minimum Variance Portfolio (12:43)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd695e7c7-b519-4126-9b64-bae25908976b%20%5Be4ff079f%5D%20.mp4
+
+8.7 Portfolios with a Risk Free Asset Part 1 (7:24)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F966d428f-a764-4268-b36e-4e8dc3219121%20%5Bf7c8af3d%5D%20.mp4
+
+8.5 Efficient Portfolios (10:00)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fbc5fb943-4c89-439d-867f-d18eacfb68b9%20%5B28065f87%5D%20.mp4
+
+8.8 Portfolios with a Risk Free Asset Part 2 (18:32)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fdc0174c9-5951-49d1-9f44-c6f394128136%20%5Baffca89c%5D%20.mp4
+
+8.10 Examples (10:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fb1408b05-8d25-469f-9f0a-c6591bc2802b%20%5Bef6b1637%5D%20.mp4
+
+8.9 Tangency Portfolio (17:33)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F2ab5f12f-447c-41a1-80eb-c04244e87ad9%20%5Be336abe0%5D%20.mp4
+
+8.11 Portfolio Theory with Matrix Algebra Part 1 (15:26)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F3b34fe6c-b03b-424c-983a-4ec2d5c8a5ce%20%5B1afac2ab%5D%20.mp4
+
+8.12 Portfolio Theory with Matrix Algebra Part 2 (15:54)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F2a0a47ab-ad53-4049-9da9-4589e249a922%20%5B20332deb%5D%20.mp4
+
+8.13 Portfolio Theory with Matrix Algebra Part 3 (16:34)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F69a0faa1-2e44-4cc2-85d1-7103f00fbec5%20%5Bc57f0224%5D%20.mp4
+
+9.0 Week 9 Introduction (3:59)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson9_Final%20%5Bf77226fd%5D%20.mp4
+
+Brief Comment about Excel Solver Add-in (2:12)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fa0570c1e-6b8d-4a64-bba8-31d2c0d82a27%20%5B89d1c9c8%5D%20.mp4
+
+9.2 Computing the Tangency Portfolio (22:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff1440c4a-4cdc-4476-871f-eafde94136bc%20%5B7ea68669%5D%20.mp4
+
+9.4 Portfolio Analysis in R (8:43)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fca881360-7d25-46d3-8c8d-0b154c0730d2%20%5Bc0733241%5D%20.mp4
+
+9.1 Computing the Portfolio Frontier (26:53)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F512cc23e-5c62-4a04-9152-53bfc3fd5a20%20%5Bd56f07df%5D%20.mp4
+
+9.5 Portfolio Analysis in Excel Part 1 (13:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Ff2bf29d4-2935-41aa-9214-c1d88b802ed1%20%5B287dbae7%5D%20.mp4
+
+9.6 Portfolio Analysis in Excel Part 2 (8:54)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F38dfd292-308a-4fff-9608-215a593d9501%20%5Beeb9d664%5D%20.mp4
+
+9.3 Mutual Fund Separation Theorem and Examples (11:04)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4d885774-890d-4a0f-9102-b3c039bccebd%20%5B637d3789%5D%20.mp4
+
+9.8 R packages for Portfolio Theory (6:43)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F47313db8-5a0f-4d3c-85ac-ebc2f49c48c5%20%5Bcd3a1ccb%5D%20.mp4
+
+9.7 Portfolio Theory with No Short Sales (13:15)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fa48e6de7-8769-4f10-8d59-be3b33244f1c%20%5B5408c30d%5D%20.mp4
+
+9.9 Using Solve.QP() in R (10:19)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F88a140e5-437e-4a62-9dc9-259a7cca0895%20%5B8da81310%5D%20.mp4
+
+9.11 Efficient Frontier (8:56)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F8fafb990-7d59-416b-b9b8-c7143dbbaef6%20%5B69ff48c8%5D%20.mp4
+
+9.10 Global minimum variance (8:16)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4f8be8b4-9a26-408e-a6d8-cbe3b5641a0c%20%5B32ad0ef7%5D%20.mp4
+
+9.12 Statistical Analysis of Efficient Portfolios (8:35)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9c99cc29-08d8-4653-b13d-75919a4f2207%20%5B95319d5d%5D%20.mp4
+
+9.13 Bootstrapping Efficient Portfolios (22:01)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F78d5b3f2-89e6-4b19-a77e-c8330db7ec58%20%5Ba7507b4c%5D%20.mp4
+
+9.14 Efficient Portfolios Over Time (18:01)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F1f46b05f-df29-4ebb-b992-356d8497dffa%20%5B3f902ffe%5D%20.mp4
+
+10.0 Week 10 Introduction (1:50)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2FCompFinLesson10_Final%20%5B9f184dc1%5D%20.mp4
+
+10.1 Portfolio Risk Budgeting (10:59)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F812822f5-2873-473a-b8b4-fd72c0722957%20%5Bbdc17b38%5D%20.mp4
+
+10.2 Euler's Theorem and Risk Decomposition (17:20)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F23685226-ea56-421a-b52d-821046f7d8a9%20%5B9ffb4913%5D%20.mp4
+
+10.3 Risk Decomposition for Portfolio Volatility (9:12)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9c1218db-f010-4d27-aa06-31b27594400e%20%5Bbc8b4053%5D%20.mp4
+
+10.4 Using and Interpreting Marginal Contribution to Risk (12:11)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F6440920f-e028-492d-81e7-2b525b790973%20%5Ba45ac56e%5D%20.mp4
+
+10.5 Beta (19:14)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fa30fd173-53b1-452d-9c75-d13af7018b7c%20%5B120d79ed%5D%20.mp4
+
+10.6 Sharpe's Single Index Model (10:48)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F4b34ceda-dd53-439f-803a-c67741d94554%20%5Be7745be1%5D%20.mp4
+
+10.8 Decomposition of Total Variance (9:42)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fcd91eed7-60fb-493a-9239-a2638add84ac%20%5Be1f7b47d%5D%20.mp4
+
+10.7 Statistical Properties of the Single Index Model (12:20)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F1014d7ba-7411-41d0-9ca0-179ec91edb35%20%5B0b0ddab1%5D%20.mp4
+
+10.9 The Single Index Model and Portfolios (7:51)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F5e4bed5e-0fa8-438c-97d9-71711489cd88%20%5B2b9693a3%5D%20.mp4
+
+10.10 Estimating the Single Index Model (12:33)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd011d427-213b-4790-be61-f497c831606b%20%5B52060cc3%5D%20.mp4
+
+10.11 Examples with the Single Index Model (18:03)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F676926b7-56b2-419e-9b5d-9a037aaa622d%20%5B49171ba9%5D%20.mp4
+
+10.12 Least Squares Estimation of Single Index Model Parameters (21:06)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F81ebadb0-f2a2-4c7f-b38e-c713bb14c5ee%20%5Bf80266c2%5D%20.mp4
+
+10.13 Statistical Properties of Least Square Estimates (8:31)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F99410391-9bf1-4107-beb5-a0d28aeae9e5%20%5B326a2bb5%5D%20.mp4
+
+10.14 Using Matrix Algebra with the Single Index Model (3:56)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F9960111d-6f36-44b8-b90d-05f1380a0154%20%5B7d5ff660%5D%20.mp4
+
+10.15 A Single Index Model Portfolio Example (5:54)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2F41e69856-abb5-454e-b02d-2df97c6de819%20%5Ba3af85af%5D%20.mp4
+
+10.16 Estimating the Single Index Model Covariance Matrix (4:56)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd41831d3-573a-4fe4-900e-e1e844c0aec5%20%5Ba8b19115%5D%20.mp4
+
+10.17 Hypothesis Testing in the Single Index Model (13:34)
+ http://d19vezwu8eufl6.cloudfront.net/compfinance/recoded_videos%2Fd1d65faf-6e96-4334-b0ff-03205ea69674%20%5Baa28bd89%5D%20.mp4
